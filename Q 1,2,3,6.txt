@@ -1,0 +1,21 @@
+Q1 
+z=0 output will be 0 
+
+Q2 
+if i consider that as an not equal coz i dont know how u have written that so assuming it is not equal to the
+output should be 
+1 <space> 1 
+
+Q3
+BY STEPS X=2 Y= 3
+->5        =5
+-> 2        =2  
+->  2        =2 
+Therefore output will be 2 
+
+Q6
+->1
+->6
+->36 > 4+36+9=49
+->49
+THEREFOR THE OUTPUT WILL BE 49
